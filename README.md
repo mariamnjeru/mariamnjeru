@@ -1,5 +1,5 @@
 # 💫 About Me:
-[Data Science Student](https://u-paris.fr/en/master-aire-digital-sciences/) at Université Paris Cité with a [Mechanical Engineering](https://engineering.uonbi.ac.ke/Mechanical) background sharpening my skills in:<br>🤖machine learning <br>🔤NLP<br>👓computer vision<br>🕸neural networks <br>✨AI  <br>Currently building my portfolio📶<br>🙌🏽Would love to work on Data Science For Social Good Projects
+[Data Science Master](https://u-paris.fr/en/master-aire-digital-sciences/) at Université Paris Cité with a [Mechanical Engineering](https://engineering.uonbi.ac.ke/Mechanical) background sharpening my skills in:<br>🤖machine learning <br>🔤NLP<br>👓data analytics<br>🕸neural networks <br>✨AI  <br>Currently building my portfolio📶<br>🙌🏽Love to work on Data Science For Social Good Projects
 
 
 ## 🌐 Socials:
